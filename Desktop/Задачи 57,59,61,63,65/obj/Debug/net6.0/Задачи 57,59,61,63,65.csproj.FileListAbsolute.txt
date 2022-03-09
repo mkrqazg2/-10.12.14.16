@@ -1,0 +1,15 @@
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\bin\Debug\net6.0\Задачи 57,59,61,63,65.exe
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\bin\Debug\net6.0\Задачи 57,59,61,63,65.deps.json
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\bin\Debug\net6.0\Задачи 57,59,61,63,65.runtimeconfig.json
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\bin\Debug\net6.0\Задачи 57,59,61,63,65.dll
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\bin\Debug\net6.0\ref\Задачи 57,59,61,63,65.dll
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\bin\Debug\net6.0\Задачи 57,59,61,63,65.pdb
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.csproj.AssemblyReference.cache
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.AssemblyInfoInputs.cache
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.AssemblyInfo.cs
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.dll
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\ref\Задачи 57,59,61,63,65.dll
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.pdb
+C:\Users\Вася\Desktop\Задачи 57,59,61,63,65\obj\Debug\net6.0\Задачи 57,59,61,63,65.genruntimeconfig.cache
