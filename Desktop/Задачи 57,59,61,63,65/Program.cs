@@ -34,7 +34,7 @@ for (int i = 0; i < arr.GetLength(0); i++)
         Console.WriteLine();
     } */
 
-//Задача 59: В прямоугольной матрице найти строку с наименьшей суммой элементов.
+/* //Задача 59: В прямоугольной матрице найти строку с наименьшей суммой элементов.
 int[,]myArr = new int[4, 3];                                                                   
 for (int i = 0; i < myArr.GetLength(0); i++)
 {
@@ -62,7 +62,43 @@ for (int j = 1; j <myArr.GetLength(0) ; j++)
     if (res[j] < res[min])   //если есть строка с суммой меньше, то пишем в max её индекс
         min = j;
 }
-Console.WriteLine("Номер строки с минимальной суммой элементов: "+min);
+Console.WriteLine("Номер строки с минимальной суммой элементов: "+min); */
 
+// Задача 61: Найти произведение двух матриц.
+Console.WriteLine(" Первая матрица: ");
+int[,]arr= new int[3,3];
+for (int i = 0; i < arr.GetLength(0); i++)
+{
+    for (int j = 0; j < arr.GetLength(1); j++)
+    {
+        arr[i, j] = new Random().Next(2, 5);
+        Console.Write($" {arr[i,j]}");
+    }
+Console.WriteLine();
+}
+Console.WriteLine(" Вторая матрица: ");
+int[,]myarr= new int[arr.GetLength(0),arr.GetLength(1)];
+for (int i = 0; i < myarr.GetLength(0); i++)
+{
+    for (int j = 0; j < myarr.GetLength(1); j++)
+    {
+        myarr[i, j] = new Random().Next(2, 5);
+        Console.Write($" {myarr[i,j]}");
+    }
+Console.WriteLine();
+}
+Console.WriteLine(" Произведение матриц: ");
+int[,]resMass = new int[arr.GetLength(0),arr.GetLength(1)];
+for (int n = 0; n < myarr.GetLength(0); n++)
+{
+    for (int m = 0; m < myarr.GetLength(1); m++)
+    {
+        for (int k = 0; k < myarr.GetLength(1); k++)
+            resMass[n, m] += arr[n, k]*myarr[k, m];
+            Console.Write($" {resMass[n,m]}");
+    }
+Console.WriteLine();
+}
+        
 
 
