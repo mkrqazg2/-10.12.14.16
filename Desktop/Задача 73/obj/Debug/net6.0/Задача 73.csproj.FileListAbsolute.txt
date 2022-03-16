@@ -1,0 +1,15 @@
+C:\Users\Вася\Desktop\Задача 73\bin\Debug\net6.0\Задача 73.exe
+C:\Users\Вася\Desktop\Задача 73\bin\Debug\net6.0\Задача 73.deps.json
+C:\Users\Вася\Desktop\Задача 73\bin\Debug\net6.0\Задача 73.runtimeconfig.json
+C:\Users\Вася\Desktop\Задача 73\bin\Debug\net6.0\Задача 73.dll
+C:\Users\Вася\Desktop\Задача 73\bin\Debug\net6.0\ref\Задача 73.dll
+C:\Users\Вася\Desktop\Задача 73\bin\Debug\net6.0\Задача 73.pdb
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.csproj.AssemblyReference.cache
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.AssemblyInfoInputs.cache
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.AssemblyInfo.cs
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.dll
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\ref\Задача 73.dll
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.pdb
+C:\Users\Вася\Desktop\Задача 73\obj\Debug\net6.0\Задача 73.genruntimeconfig.cache
